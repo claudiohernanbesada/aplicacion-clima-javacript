@@ -1,6 +1,6 @@
 // definicion de constantes (URL API, API Key y Diferencia entre grados Kelvin y Centigrados)
 const urlBase = `https://api.openweathermap.org/data/2.5/weather`;
-const API_KEY = 'c9a64146d5b27a800fc07a53bf8ae9ac';
+const API_KEY = 'GENERAR-API-KEY';
 const diffKelvin = 273.15;
 const divResponseData = document.getElementById('responseData');
 
